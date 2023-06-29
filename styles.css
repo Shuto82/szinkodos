@@ -35,3 +35,14 @@
     font-size: 3rem;
     text-align: center;;
 }
+
+button {
+    display: block;
+    margin: 1rem auto;
+    font-size: 2rem;
+    border-radius: 20px;
+}
+
+button:hover {
+    background-color: white;
+}
